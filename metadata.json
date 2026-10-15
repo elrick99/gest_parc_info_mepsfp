@@ -1,0 +1,6 @@
+{
+  "name": "Gestion du Parc Informatique",
+  "description": "Dashboard pour la gestion du parc informatique du cabinet avec support multi-rôles, scanning QR code, suivi des pannes, maintenances, acquisitions et exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

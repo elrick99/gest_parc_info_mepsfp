@@ -6,3 +6,5 @@ coverage/
 *.log
 .env*
 !.env.example
+*.pptx
+MEPS_Intelligence_CahierDesCharges_Dev.md
